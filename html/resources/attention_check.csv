@@ -1,0 +1,3 @@
+questionText,questionWidth,type,responseWidth,options,layout
+You answer the first decision by pressing S to indicate the patch contained a Signal. If you answer was correct, in the second decision you should expect:,0.7,radio,0.3,“a patch containing a Signal,a patch containing only Noise”,horiz
+You answer the first decision by pressing N to indicate the patch contained only Noise. If you answer was correct, in the second decision you should expect:,0.7,radio,0.3,“a patch containing a Signal,a patch containing only Noise”,horiz
